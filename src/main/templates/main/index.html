@@ -1,4 +1,6 @@
 {% extends 'main/base.html' %}
 {% block content %}
-<h1>{{country_name}} : {{salary}} : {{packetPrice}}</h1>
+{% for country,salary,pack in myData %}
+<h1>{{country}} :{{salary}} : {{pack}}</h1>
+{% endfor %}
 {% endblock %}
