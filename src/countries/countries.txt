@@ -1,8 +1,8 @@
+Afghanistan
 Albania
 Algeria
 Andorra
 Angola
-Antigua+and+Barbuda
 Argentina
 Armenia
 Australia
@@ -21,7 +21,7 @@ Bolivia
 Bosnia+and+Herzegovina
 Botswana
 Brazil
-Brunei
+Brunei+
 Bulgaria
 Burkina+Faso
 Burundi
@@ -35,7 +35,7 @@ Chile
 China
 Colombia
 Comoros
-Congo+
+Congo
 Costa+Rica
 Croatia
 Cuba
@@ -114,7 +114,7 @@ Mongolia
 Montenegro
 Morocco
 Mozambique
-Myanmar+
+Myanmar
 Namibia
 Nauru
 Nepal
